@@ -1,6 +1,8 @@
 # PS5-Price-Collector
+
 Collect The PS5 Price From Supported Website's And Save it As TXT File
-Supported Website's:
+
+## Supported Website's:
 Tilno.ir
 Dragon-shop.ir
 PSPro.ir
